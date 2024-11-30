@@ -1,9 +1,9 @@
 [submodule "thesis"]
 	path = thesis
-	url = git@github.com:bidinpithecus/cps-type-inferer-thesis
-[submodule "implementation"]
-	path = implementation
-	url = git@github.com:bidinpithecus/cps-type-inferer-implementation
+	url = git@github.com:bidinpithecus/cps-type-inferer-thesis.git
+[submodule "code"]
+	path = code
+	url = git@github.com:bidinpithecus/cps-type-inferer.git
 [submodule "literature"]
 	path = literature
 	url = git@github.com:bidinpithecus/cps-type-inferer-literature.git
