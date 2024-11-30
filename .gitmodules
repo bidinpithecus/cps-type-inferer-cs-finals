@@ -4,3 +4,6 @@
 [submodule "implementation"]
 	path = implementation
 	url = git@github.com:bidinpithecus/cps-type-inferer-implementation
+[submodule "literature"]
+	path = literature
+	url = git@github.com:bidinpithecus/cps-type-inferer-literature.git
